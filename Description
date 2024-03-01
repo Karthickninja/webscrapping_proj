@@ -1,0 +1,15 @@
+Sure, let's break it down without using a specific example:
+
+1. **Objective (AIM):**
+   You want to gather information from Domino's website. Think of it like wanting to know what pizzas they have and their prices.
+
+2. **Programming Language - Python:**
+   Python is the tool you're going to use for this task. It's like the language you speak to tell the computer what you want.
+
+3. **Framework - BeautifulSoup:**
+   BeautifulSoup is like a helper tool that makes it easy for Python to understand and work with the structure of a website. It's used for collecting specific pieces of information.
+
+4. **Data Extraction - Regular Expressions (Regex):**
+   Regular Expressions, or Regex, is like a special code language. It helps you define precisely what kind of information you're looking for on the website. It's like having a set of rules to identify and extract specific details.
+
+Combining these elements, it's like having a conversation with Python (the language you're using) to use BeautifulSoup (the helper tool) and Regex (the rules) to gather the specific information you want from Domino's website. It's a bit like telling a detective exactly what clues to look for in a case!
